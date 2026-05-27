@@ -39,34 +39,9 @@ python pdf_static_analyzer.py sample.pdf
 
 ## Example Output
 
-```text
-1. MAGIC BYTES VALIDATION
-
-[i] Valid PDF magic bytes detected | Version: 1.7
-
-[*] MD5:    7......
-[*] SHA1:   4......
-[*] SHA256: a......
+<img width="1472" height="1589" alt="image" src="https://github.com/user-attachments/assets/ad2ab30b-53d2-4346-9ef9-731c1ff54285" />
 
 
-3. QR CODES & EMBEDDED URLs
-
-[!] URLs found in page text: 1
-
-→ hxxps://malicious-site[.]com
-
-
-4. PDF STRUCTURE
-
-KEYWORD              COUNT     FLAG
-------------------------------------------
-obj                  15
-stream               4
-/OpenAction          1         !
-/JS                  1         !
-```
-
----
 
 ## JSON Report
 
