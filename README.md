@@ -38,6 +38,7 @@ python pdf_static_analyzer.py sample.pdf
 ---
 
 ## Example Output
+NOTE: I added only some of the extracted URLs as example:
 
 <img width="1472" height="1589" alt="image" src="https://github.com/user-attachments/assets/ad2ab30b-53d2-4346-9ef9-731c1ff54285" />
 
