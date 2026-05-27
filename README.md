@@ -26,7 +26,7 @@ Static PDF analysis tool for threat analysis. Detects indicators of compromise (
 Install dependencies:
 
 ```bash
-pip install pymupdf pillow pyzbar opencv-python numpy
+pip install pymupdf pillow pyzbar opencv-python
 ```
 
 ## Usage
